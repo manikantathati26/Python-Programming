@@ -1,0 +1,3 @@
+n=int(input("enter the number:"))
+sq=n**2
+print("square number =",sq)
