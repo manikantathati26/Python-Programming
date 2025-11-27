@@ -1,0 +1,5 @@
+def my_function(c):
+    return math.floor(c)
+import math
+c=float(input("enter the number:"))
+print("floor value =",my_function(c))
