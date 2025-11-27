@@ -1,0 +1,8 @@
+def my_function(n1,n2):
+    if n2==0:
+        return "error! quotient and remainder not possible"
+    else:
+        return f"quotient = {n1/n2} , remainder = {n1%n2}"
+n1=int(input("enter the dividend value:"))
+n2=int(input("enter the divisor value:"))
+print(my_function(n1,n2))
