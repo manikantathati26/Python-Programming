@@ -1,0 +1,5 @@
+def my_function(n):
+    return math.ceil(n)
+import math
+n=float(input("enter the number:"))
+print("ceil number =",my_function(n))
