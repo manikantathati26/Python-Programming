@@ -1,0 +1,4 @@
+import math
+a=float(input("enter the number:"))
+c=math.floor(a)
+print("floor number =",c)
