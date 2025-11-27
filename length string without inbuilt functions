@@ -1,0 +1,7 @@
+def my_function(s,count):
+    for i in s:
+        count+=1
+    return count
+s=input("enter the character:")
+count=0
+print("length string =",my_function(s,count))
