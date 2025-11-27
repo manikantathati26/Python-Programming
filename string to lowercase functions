@@ -1,0 +1,4 @@
+def my_function(c):
+    return c.lower()
+c=input("enter the string:")
+print("lowercase string =",my_function(c))
