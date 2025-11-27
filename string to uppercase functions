@@ -1,0 +1,4 @@
+def my_function(s):
+    return s.upper()
+s=input("enter the string:")
+print("uppercase string =",my_function(s))
