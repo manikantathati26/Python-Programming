@@ -1,0 +1,3 @@
+c=input("enter the string:")
+c1=c.upper()
+print("uppercase string =",c1)
