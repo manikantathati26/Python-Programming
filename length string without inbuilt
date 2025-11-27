@@ -1,0 +1,5 @@
+s=input("enter the character:")
+count=0
+for i in s:
+    count+=1
+print("length string =",count)
