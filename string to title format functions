@@ -1,0 +1,4 @@
+def my_function(s):
+    return s.title()
+s=input("enter the string:")
+print("title =",my_function(s))
