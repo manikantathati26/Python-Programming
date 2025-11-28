@@ -1,0 +1,4 @@
+def my_function(s):
+    return s.swapcase()
+s=input("enter the character:")
+print(my_function(s))
