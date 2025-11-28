@@ -1,0 +1,4 @@
+def my_function(s):
+    return s.capitalize()
+s=input("enter the string:")
+print("capitalized string =",my_function(s))
