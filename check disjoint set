@@ -1,0 +1,4 @@
+s1={1,2,3}
+s2={4,5,6} # when no intersection is there then it is said to be disjoint
+s3=s1.isdisjoint(s2)
+print(s3)
